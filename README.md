@@ -20,7 +20,7 @@ Currently diving into the world of <strong>Angular</strong> and <strong>MEAN Sta
 
 | 🚀 **Category**             | 🛠️ **Technologies**                                      |
 |-----------------------------|-----------------------------------------------------------|
-| 🧠 Languages                | Java, Kotlin, JavaScript, TypeScript                     |
+| 🧠 Languages                | Java, Kotlin, PHP, JavaScript, TypeScript                     |
 | 🎨 Frontend & UI Frameworks | Angular, Bootstrap, Tailwind CSS                         |
 | 🔧 Full-Stack               | MERN Stack (MongoDB, Express, React, Node.js)            |
 | 🗃️ Databases                | MySQL, MongoDB                                           |
