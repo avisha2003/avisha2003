@@ -18,14 +18,13 @@ Currently diving into the world of <strong>Angular</strong> and <strong>MEAN Sta
 
 ### 💼 Tech Stack & Tools
 
-| 🚀 **Category**           | 🛠️ **Technologies**                                      |
-|--------------------------|----------------------------------------------------------|
-| 🧠 Languages              | Java, Kotlin, JavaScript, TypeScript                     |
-| 🎨 Frontend Frameworks    | Angular                                                  |
-| 🔧 Full-Stack             | MERN Stack (MongoDB, Express, React, Node.js)            |
-| 🎨 CSS/UI Libraries       | Bootstrap, Tailwind CSS                                  |
-| 🗃️ Databases              | MySQL, MongoDB                                           |
-| 🧰 Tools & Platforms      | Git, GitHub, Figma, Android Studio                       |
+| 🚀 **Category**             | 🛠️ **Technologies**                                      |
+|-----------------------------|-----------------------------------------------------------|
+| 🧠 Languages                | Java, Kotlin, JavaScript, TypeScript                     |
+| 🎨 Frontend & UI Frameworks | Angular, Bootstrap, Tailwind CSS                         |
+| 🔧 Full-Stack               | MERN Stack (MongoDB, Express, React, Node.js)            |
+| 🗃️ Databases                | MySQL, MongoDB                                           |
+| 🧰 Tools & Platforms        | Git, GitHub, Figma, Android Studio                       |
 
 ---
 
